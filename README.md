@@ -1,2 +1,3 @@
 # clonetabnews
+
 Implementação de curso
